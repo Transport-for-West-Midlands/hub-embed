@@ -15,11 +15,8 @@ Parameters can be added to the Base URL with either query ? or anchor #
 url - Feature Layer URL (include the layer index, e.g. /0)
 outFields - Feature fields (attributes) to include in table
 hiddenFields - Fields that end-user can show, but is hidden on startup
-Example from Johns Creek, GA
 
-Example from Washington, DC
-
-Thanks to Johns Creek for the example.
+Sourced from: https://github.com/esridc/hub-embed.git
 
 License
 Copyright © 2018 Esri
