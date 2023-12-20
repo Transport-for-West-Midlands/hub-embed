@@ -6,7 +6,7 @@ To use, build the URL for the component you want, then use a Page iFrame card.
 These components are currently in development and feedback is very welcome.
 
 Tables
-Embed Base URL: http://esridc.github.io/hub-embed/hub-embed-table.html
+Embed Base URL: http://zsmithtfwm.github.io/hub-embed/hub-embed-table.html
 
 Option parameters:
 
