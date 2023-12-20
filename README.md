@@ -1,4 +1,4 @@
-# hub-embed
+# Hub Embeds
 Simple components for embedding unique content in Hub pages.
 
 To use, build the URL for the component you want, then use a Page iFrame card.
